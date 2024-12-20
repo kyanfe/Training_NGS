@@ -80,3 +80,7 @@
    80  cd Training
    81  ls
    82  history > history.txt
+
+
+hnbhk
+'jknj
