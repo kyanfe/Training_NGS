@@ -1,0 +1,82 @@
+    1  sudo apt install r-base
+    2  sudo apt install r-studio
+    3  sudo apt-get install build_essential
+    4  sudo apt-get install build-essential
+    5  sudo apt install r-base dev
+    6  sudo apt install r-base
+    7  sudo apt install libcurl4-openssl-dev
+    8  sudo apt install libcurl4-openssl-dev libssl-dev
+    9  pwd
+   10  ls
+   11  ls -l
+   12  ls -lh
+   13  ls -R
+   14  ls -IS
+   15  mkdir kdr2024
+   16  ls -l
+   17  cd kdr2024
+   18  pwd
+   19  cd /home/bioinformatics-10/kdr2024
+   20  rmdir kdr2024
+   21  ..
+   22  cd ..
+   23  rmdir kdr2024
+   24  ls
+   25  cd kdrama
+   26  mkdir kdrama
+   27  ls
+   28  cd kdrama
+   29  mkdir 2024
+   30  ls
+   31  cd ..
+   32  \home
+   33  ls
+   34  rmdir kdrama
+   35  rmdir -r kdrama
+   36  ls
+   37  rmdir -r kdrama
+   38  rmdir -help
+   39  rmdir --help
+   40  cd kdrama
+   41  ls
+   42  rmdir 2024
+   43  ls
+   44  man mkdir
+   45  / home
+   46  ls
+   47  /home
+   48  cd kdrama
+   49  cd
+   50  rmdir kdrama
+   51  ls
+   52  cd  Desktop
+   53  mkdir Training
+   54  ls
+   55  sudo apt install git-all
+   56  git
+   57  cd
+   58  ls
+   59  pwd
+   60  ls
+   61  cd Downloads
+   62  ls
+   63  pwd
+   64  ls
+   65  sudo apt install code_1.96.2-1734607745_amd64.deb
+   66  cd
+   67  pwd
+   68  ls-a
+   69  ls -a
+   70  nano .bashrc 
+   71  more.bashrc 
+   72  more .bashrc 
+   73  less .bashrc 
+   74  echo
+   75  cd Training
+   76  cd
+   77  ls
+   78  cd Desktop
+   79  ls
+   80  cd Training
+   81  ls
+   82  history > history.txt
